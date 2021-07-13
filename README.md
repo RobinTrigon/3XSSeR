@@ -8,4 +8,4 @@ install rull :
 
 2| cd 3XSSeR
 
-3| 
+3| cat payload | bash xss.sh target | tee result
